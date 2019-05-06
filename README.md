@@ -1,7 +1,11 @@
 # mp-storage
+![](https://img.shields.io/badge/version-v1.0.0-brightgreen.svg)  |  ![GitHub followers](https://img.shields.io/github/followers/nicemorning007.svg?label=Follow&style=social)
+
 A local storage and session storage helper script.It can run on WeChat miniprogram and other miniprogram or explorer environment.While using this script you must  mixed with MpVUE framework.
 
 It can help you write once and run anywhere if this platform was supported.
+
+**Base on [mp-storage](https://github.com/zhetengbiji/mp-storage)**
 
 # Platform
 This script support `WeChat miniprogram`  `Alipay program`  `Baidu program`  `TouTiao program` `HTML` in theory. But it only work well while you mixed this into `MpVue` framework.So which platform it will be run is depands on `MpVUE`.
