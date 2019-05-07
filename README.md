@@ -1,5 +1,5 @@
 # mp-storage
-![](https://img.shields.io/badge/version-v1.0.0-brightgreen.svg)  |  ![GitHub followers](https://img.shields.io/github/followers/nicemorning007.svg?label=Follow&style=social)
+![](https://img.shields.io/badge/version-v1.0.0-brightgreen.svg)    ![GitHub followers](https://img.shields.io/github/followers/nicemorning007.svg?label=Follow&style=social)
 
 A local storage and session storage helper script.It can run on WeChat miniprogram and other miniprogram or explorer environment.While using this script you must  mixed with MpVUE framework.
 
