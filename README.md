@@ -5,6 +5,8 @@ A local storage and session storage helper script.It can run on WeChat miniprogr
 
 It can help you write once and run anywhere if this platform was supported.
 
+**This script only recommend wrok with vuex-persistedstate,otherwise you should stringfy your object value**
+
 **Base on [mp-storage](https://github.com/zhetengbiji/mp-storage)**
 
 # Platform
